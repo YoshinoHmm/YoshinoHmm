@@ -6,7 +6,7 @@
 - 💬 Ask me about Flutter and React
 - 📫 How to reach me: johnmclandicho@gmail.com, [LinkedIn](https://www.linkedin.com/in/johnlandicho/)
 - ⚡ Fun fact: I love seeing errors in the command line
-- 
+
 ### About me:
 
 I'm a guy based in Milan, my passion for coding started in high school when I printed for the first time a rhombus of stars in C, creating something and immediatly seeing it taking life was mindblowing for me.
