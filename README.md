@@ -1,4 +1,4 @@
-### Hi everyone
+### Hi everyone!
 
 - 🌱 I’m currently learning React and Rust
 - 👯 I’m looking to collaborate on Blockchain projects
