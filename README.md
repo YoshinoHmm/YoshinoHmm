@@ -6,9 +6,7 @@
 - 💬 Ask me about Flutter and React
 - 📫 How to reach me: johnmclandicho@gmail.com, [LinkedIn](https://www.linkedin.com/in/johnlandicho/)
 - ⚡ Fun fact: I love seeing errors in the command line
-
-<img src="https://github-readme-stats.vercel.app/api?username=YoshinoHmm&&show_icons=true&title_color=ffffff&icon_color=634832&text_color=daf7dc&bg_color=967259">
-
+- 
 ### About me:
 
 I'm a guy based in Milan, my passion for coding started in high school when I printed for the first time a rhombus of stars in C, creating something and immediatly seeing it taking life was mindblowing for me.
@@ -18,3 +16,6 @@ I thrive to be a better version of my self everyday.
 
 ### My dream:
 *Freedom*
+
+<img src="https://github-readme-stats.vercel.app/api?username=YoshinoHmm&&show_icons=true&title_color=ffffff&icon_color=634832&text_color=daf7dc&bg_color=967259">
+
