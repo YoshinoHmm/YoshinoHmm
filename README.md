@@ -16,5 +16,4 @@ I thrive to be a better version of my self everyday.
 ### My dream:
 *Freedom*
 
-<img src="https://github-readme-stats.vercel.app/api?username=YoshinoHmm&&show_icons=true&title_color=ffffff&icon_color=634832&text_color=daf7dc&bg_color=967259">
 
