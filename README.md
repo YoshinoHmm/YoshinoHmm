@@ -1,8 +1,6 @@
 ### Hi everyone!
 
-- I’m looking to collaborate on Blockchain projects
-- I’m looking for help with being involved in the Web3
-- Ask me about Flutter and React
+- Flutter and React Expert
 - How to reach me: johnmclandicho@gmail.com, [LinkedIn](https://www.linkedin.com/in/johnlandicho/)
 - Fun fact: I love seeing errors in the command line
 
